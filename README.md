@@ -1,0 +1,3 @@
+# Gender-Recognition-by-Voice-with-different-ML-classification-methods
+
+In this project, we will classify a person's gender by his/her various aspects of voice using different classification methods like logistic regression, k-nearest neighbors, Naive Bayes. These methods will be completely implemented from sratch using pure Python and related mathematical concepts. For each method, we'll compare it with its built-in version in sklearn library to see if there are any differences in results. In addition, other methods like SVM, Decision Tree, Random Forest are also used from sklearn to compare the accuracy among methods. Data were downloaded from Kaggle: https://www.kaggle.com/primaryobjects/voicegender.
